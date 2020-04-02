@@ -6,34 +6,34 @@ Here are some examples of open data sources you can use in your algorithms. Howe
 2. http://www.census.gov/data.html
 3. https://www.healthdata.gov/
 
-During final presentations, you will be asked to defend your choices of data, weights on each indicator (see list below), as well as code quality and methods. You will also be required to tweak your algorithm during the presentation to prove that it can show other cities when the weights/indicators change.
+During final presentations, (see our [slides](https://github.com/cy235/UBS_Pitch_2018/blob/master/UBS%20pitch.pdf)), you will be asked to defend your choices of data, weights on each indicator (see list below), as well as code quality and methods. You will also be required to tweak your algorithm during the presentation to prove that it can show other cities when the weights/indicators change.
 
 Potential Indicators
--       Median Income
--       Number of corporate entities registered
--       Unemployment data
--       Commuting score
--       Home prices
--       Walkability score
--       School District Rating
--       University proximity
--       Annual median property tax
--       Hospital proximity
--       Density of wealth management firms
--       Average property size
--       Budget deficits
--       Airport proximity
--       Muni prices in the open market
--       Cars registered
--       Tourists
--       Electoral voter bent
--       Corporate entity distribution
--       Corporate profits reported
--       Road quality score
--       Number of traffic signals
--       Average property rental rates
--       Crime rates
--       Quality of water
+- Median Income
+- Number of corporate entities registered
+- Unemployment data
+- Commuting score
+- Home prices
+- Walkability score
+- School District Rating
+- University proximity
+- Annual median property tax
+- Hospital proximity
+- Density of wealth management firms
+- Average property size
+- Budget deficits
+- Airport proximity
+- Muni prices in the open market
+- Cars registered
+- Tourists
+- Electoral voter bent
+- Corporate entity distribution
+- Corporate profits reported
+- Road quality score
+- Number of traffic signals
+- Average property rental rates
+- Crime rates
+- Quality of water
 
 Scoring Criteria
 1. Application of Machine Learning
